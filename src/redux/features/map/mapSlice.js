@@ -5,7 +5,10 @@ Por ejemplo, si tu aplicación tiene una función de autenticación, podrías cr
 
 El uso de slices en Redux Toolkit es una forma de organizar el código de tu aplicación de manera más modular y fácil de mantener. Cada slice se puede escribir y probar de manera independiente, lo que permite un desarrollo más rápido y un código más limpio. Además, Redux Toolkit proporciona herramientas para generar automáticamente los reducers y actions básicos para cada slice, lo que reduce la cantidad de código que debes escribir manualmente.
 
+adsadad
+
 */
+
 
 
 import { createSlice } from "@reduxjs/toolkit";
